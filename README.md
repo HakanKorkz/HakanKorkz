@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba, ben Hakan Korkmaz. 1997 doğumluyum ve Türkiye'de yaşıyorum. Uzun süredir web geliştirme alanında çalışıyorum ve birçok farklı teknolojiyi kullanıyorum. Bunlar arasında PHP PDO, CSS, Sass, Javascript, Nextjs, ReactJs, Laravel ve Git bulunuyor. Web geliştirme, benim için bir tutku haline geldi. Web siteleri ve uygulamalar geliştirerek, kullanıcıların ihtiyaçlarını karşılamak için teknolojiyi kullanmak beni heyecanlandırıyor. Çalışmalarımda daima yenilikçi olmaya, müşterilerimin ihtiyaçlarını en iyi şekilde anlamaya ve gelişen teknolojileri takip etmeye özen gösteriyorum.
+Merhaba, ben Hakan Korkmaz. 1997 doğumluyum. Uzun süredir web geliştirme alanında çalışıyorum ve birçok farklı teknolojiyi kullanıyorum. Bunlar arasında PHP PDO, CSS, Sass, Javascript, Nextjs, ReactJs, Laravel ve Git bulunuyor. Web geliştirme, benim için bir tutku haline geldi. Web siteleri ve uygulamalar geliştirerek, kullanıcıların ihtiyaçlarını karşılamak için teknolojiyi kullanmak beni heyecanlandırıyor. Çalışmalarımda daima yenilikçi olmaya, müşterilerimin ihtiyaçlarını en iyi şekilde anlamaya ve gelişen teknolojileri takip etmeye özen gösteriyorum.
 
 
 ## 🌐 Socials:
